@@ -228,6 +228,7 @@
     </Content>
     <None Include="Properties\PublishProfiles\HackerNews20200615130758 - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\HackerNewsApiv120180731064649 - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\HackerNewsInJavascript - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
